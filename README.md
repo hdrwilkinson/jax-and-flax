@@ -16,7 +16,7 @@ This repository is dedicated to my explorations and learnings in JAX and FLAX, w
 ## Getting Started
 
 To use this repository:
-1. Clone it using `git clone` followed by the repository's URL.
+1. Clone it using `git clone https://github.com/hdrwilkinson/jax-and-flax.git`.
 2. Install any necessary dependencies as specified in the project directories.
 3. Navigate to the desired tutorial or project directory and review the instructions provided.
 
@@ -26,7 +26,8 @@ This is a personal learning repository; however, constructive feedback and sugge
 
 ## License
 
-Specify the license here, which could be MIT, Apache 2.0, etc.
+This project is open-sourced under the MIT License. See the LICENCE.txt file for more details.
+
 
 ## Acknowledgements
 
